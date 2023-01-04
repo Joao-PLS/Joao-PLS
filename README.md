@@ -3,7 +3,7 @@
 
 <h2 align="center"> Sobre mim </h2>
 <p align="center"> Olá, meu nome João Paulo, sou de Porto Alegre, Rio Grande do Sul, Brasil.
-<p align="center"> Sou apaixonado pela tecnologia, atualmente estou cursando engenharia da computação na UFRGS, ao mesmo tempo estou me descobrindo no mundo do desenvolvimento web e estou cada vez mais me aprofundando nesse mundo.
+<p align="center"> Sou apaixonado pela tecnologia, atualmente estou cursando engenharia da computação na UFRGS, ao mesmo tempo estou me descobrindo no desenvolvimento web e estou cada vez mais me aprofundando nesse mundo.
   <br><br><br>
 
 <h2 align="center">Essas são as tecnologias que eu estou mais acostumado a usar no dia a dia! 😉️ </h2>
