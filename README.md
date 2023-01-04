@@ -15,7 +15,10 @@
   <img align="center" alt="git" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   </div>
+  <br><br><br>
   
+  <p>Estou sempre disposto a aprender novas ferramentas e linguagens, e conhecer com mais profundidade as que já trabalho.</p>
+  <br><br><br>
  
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpls_1/)
